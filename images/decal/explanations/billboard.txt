@@ -1,0 +1,7 @@
+New billboard content
+---------------------
+
+Create the content as you normally would, i.e. using the sprites from the game
+and whatever other graphics you need. Then resize to 90% so the game sprites
+appear a litte smaller than originally and reduce the saturation by 20%.
+
