@@ -1,7 +1,6 @@
 Forest World Adventure Pack (FWAP) is a set of game assets for use with SuperTux Addons.
 Most FWAP related content is Copyright Stephen Groundwater 2021, github.com/slackstone. 
 
-The "Nolok" game character 
 
 Additioanl copyright holders for FWAP content will be noted in this file.
 
