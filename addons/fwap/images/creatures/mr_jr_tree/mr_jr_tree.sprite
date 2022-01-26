@@ -1,0 +1,49 @@
+(supertux-sprite
+  (action
+    (name "left")
+    (fps 20)
+    (hitbox 8 12 38 38)
+    (images "frame0000.png"
+            "frame0001.png"
+            "frame0002.png"
+            "frame0003.png"
+            "frame0004.png"
+            "frame0005.png"
+   )
+  )
+  (action
+    (name "right")
+    (fps 20)
+    (hitbox 8 12 38 38)
+    (mirror-action "left")
+  )
+
+  (action
+    (name "squished-left")
+    (hitbox 8 -5 38 38)
+    (images "frame0000.png")
+  )
+  (action
+    (name "squished-right")
+    (hitbox 8 -5 38 38)
+    (mirror-action "squished-left")
+  )
+  (action
+    (name "burning-left")
+    (fps 15)
+    (hitbox 8 44 38 38)
+    (images  "frame0000.png"
+             "frame0001.png"
+             "frame0002.png"
+             "frame0003.png"
+             "frame0004.png"
+             "frame0005.png"
+   )
+  )
+  (action
+    (name "burning-right")
+    (fps 15)
+    (hitbox 8 44 38 38)
+    (mirror-action "burning-left")
+  )
+)
