@@ -10,8 +10,3 @@ Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/
 
 Mr.Tree Forest Products - TM ; is trademarked Stephen Groundwater 2021 
-
-The "Nolok" game character used in FWAP is based off of original work with Ingo Ruhnke, A/K/A
-Grumbel.  All "Nolok" related work in this folder, or subfolders within, is held under a shared copyright by:
-2004(approximate) Ingo Ruhnke 
-2021 Stephen Groundwater
